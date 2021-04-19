@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Rajdeep</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aspanefrost&label=Profile%20views&color=0e75b6&style=flat" alt="aspanefrost" /> </p>
 
@@ -11,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/13111089" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="13111089" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13111089" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="13111089" height="30" width="40" /></a>
 <a href="https://fb.com/rajdeepdasren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="rajdeepdasren" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rajdeep das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="rajdeep das" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aspanefrost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aspanefrost" height="30" width="40" /></a>
