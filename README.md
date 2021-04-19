@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://linkedin.com/in/rajdeep-das-873891199" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rajdeep-das-873891199" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/13111089" target="blank"><img align="center" src="https://stackoverflow.design/assets/img/logos/so/logo-stackoverflow.svg" alt="13111089" height="30" width="40" /></a>
 <a href="https://fb.com/rajdeepdasren" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/iconmonstr-facebook-6.svg" alt="rajdeepdasren" height="30" width="40" /></a>
 <a href="https://https://www.youtube.com/channel/UCxlHd4DecYr7Tis3k_G3muA" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/youtube.png" alt="rajdeep das" height="30" width="40" /></a>
