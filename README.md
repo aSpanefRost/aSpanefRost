@@ -15,7 +15,7 @@
 <a href="https://fb.com/rajdeepdasren" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/iconmonstr-facebook-6.svg" alt="rajdeepdasren" height="30" width="40" /></a>
 <a href="https://https://www.youtube.com/channel/UCxlHd4DecYr7Tis3k_G3muA" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/youtube.png" alt="rajdeep das" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/aspanefrost" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="aspanefrost" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aspanefrost" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/LeetCode_logo_white_no_text.svg" alt="aspanefrost" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aspanefrost01" target="blank"><img align="center" src="https://github.com/aSpanefRost/aSpanefRost/blob/main/LeetCode_logo_white_no_text.svg" alt="aspanefrost" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
